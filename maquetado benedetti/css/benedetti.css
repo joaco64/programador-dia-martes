@@ -70,3 +70,49 @@ h1,h2{
     background-color: #4C7550;
 }
 
+.eventos{
+    background: #efefef;
+}
+
+
+.mapa iframe{
+    width: 100%; 
+    aspect-ratio: 1.2;
+ }
+ 
+ textarea {
+     resize: none;
+ }
+ 
+ html{
+     scroll-behavior: smooth;
+ }
+ 
+ .formulariodd{
+     background-color:#4C7550;
+     aspect-ratio: 1.2;
+ }
+
+ footer{
+    background-color: #4C7550;
+    min-height: 100px;
+}
+footer p{
+    text-align: center;
+}
+
+#iconos i {
+    font-size: 26px;
+    padding: 0 8px;
+    color: black;
+  
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.scroll-section{
+    scroll-margin-top: 60px;
+
+}
